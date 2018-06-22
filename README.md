@@ -1,8 +1,5 @@
-# egghead-dart
+# Egghead-dart
 
-## Installation
- - [Install Dart](https://webdev.dartlang.org/guides/get-started#2-install-dart)
- - Run:
-```bash
-$ dart main.dart
-```
+This repo contains the solutions to the lessons on the Dart ecosystem.
+
+Learn more at [dartlang.org](https://www.dartlang.org)
